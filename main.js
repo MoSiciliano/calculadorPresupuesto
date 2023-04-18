@@ -60,7 +60,7 @@ function Calculopresupuesto (){
     alert(`El presupuesto total es: $${presupuestoTotal}`)
 }
  
-calculoPresupuesto ()
+Calculopresupuesto ()
     alert (`Usted recibira un mail a ${email} con los detalles de su presupuesto, gracias por elegirnos!`)
 
 
